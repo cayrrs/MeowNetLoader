@@ -1,7 +1,7 @@
 # MeowNetLoader
 
 
-# OUTDATED AS OF 9/16/26
+## this will be indefinitely outdated. the new launcher seems to be written in C++, not .NET.
 
 The Visual Studio project of Meow.Net's Launcher.
 
